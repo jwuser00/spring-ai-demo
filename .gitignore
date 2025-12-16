@@ -39,7 +39,8 @@ out/
 ### Environment Variables & Secrets ###
 .env
 .env.*
-env-template.txt
+secrets.yml
+application-secret.yml
 
 ### System Files ###
 .DS_Store
